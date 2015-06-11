@@ -1,0 +1,23 @@
+{
+  "name": "generate-multisig-addresses",
+  "version": "0.1.0",
+  "description": "Generate a large number of multisig bitcoin addresses.",
+  "main": "app.js",
+  "dependencies": {
+    "bitcoinjs-lib": "^1.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anders94/generate-multisig-addresses.git"
+  },
+  "author": "Anders Brownworth @anders94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anders94/generate-multisig-addresses/issues"
+  },
+  "homepage": "https://github.com/anders94/generate-multisig-addresses#readme"
+}
