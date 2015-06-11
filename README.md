@@ -1,7 +1,25 @@
 Generate Multisig Addresses
 =========
-
 This short little Node.js script generates 100 multisig bitcoin addresses and prints them out.
+
+Requires
+---------
+* Node.js / npm
+
+Install
+---------
+
+```
+git clone https://github.com/anders94/generate-multisig-addresses.git
+cd generate-multisig-addresses/
+npm install
+```
+
+Run
+---------
+```
+node app
+```
 
 Sample output:
 
